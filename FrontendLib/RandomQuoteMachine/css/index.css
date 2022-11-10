@@ -1,0 +1,34 @@
+body {
+  padding: 2%
+}
+
+.bg {
+  background-color: whitesmoke;
+}
+
+#quote-box {
+  /* margin: auto;
+  padding: auto; */
+  text-align: center;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  /* padding: 2% */
+  /* border: solid;
+  border-radius: 5%; */
+  }
+
+#text {
+  font-size: 3rem;
+}
+
+#author {
+  font-size: 2rem;
+  text-align: right;
+}
+
+#buttons {
+  position: sticky;
+  padding: 2%;
+  margin: 2%;
+}
