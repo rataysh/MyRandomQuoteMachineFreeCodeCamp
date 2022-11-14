@@ -1,4 +1,5 @@
 # My Random Quote Machine
 
 
-## [View](https://rataysh.github.io/freeCodeCamp/)
+## [View](https://rataysh.github.io/MyRandomQuoteMachineFreeCodeCamp
+/)
